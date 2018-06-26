@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/B10509010_HW03/B10509010_HW03.iml" filepath="$PROJECT_DIR$/B10509010_HW03/B10509010_HW03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW03.iml" filepath="$PROJECT_DIR$/HW03.iml" />
+      <module fileurl="file://C:\Users\pockm\Desktop\HW03\contentprovider\app.iml" filepath="C:\Users\pockm\Desktop\HW03\contentprovider\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
+    </modules>
+  </component>
+</project>
